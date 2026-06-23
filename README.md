@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey, I'm AIStackEngineer 👋
 
-<!--
-**AIStackEngineer/AIStackEngineer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🤖 AI Engineer in Progress
 
-Here are some ideas to get you started:
+## 📚 Currently Learning
+- Python
+- Machine Learning
+- Deep Learning
+- Artificial Intelligence
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Goal
+Build AI projects, improve my skills, and become an AI Engineer.
+
+## 💻 Tech Stack
+- Python
+- HTML
+- CSS
+
+## 🌱 Current Focus
+Learning something new every day and building real projects.
